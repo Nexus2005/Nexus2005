@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Telemetry Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=3500&amp;pause=1000&amp;color=C6FF38&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Distributed+Systems+Architect;Deep+Learning+R%26D+Engineer;Founding+Backend+Engineer;ISRO+Hackathon+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3500&pause=1000&color=C6FF38&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architect;Deep+Learning+R%26D+Engineer;Founding+Backend+Engineer;ISRO+Hackathon+Finalist" alt="Typing SVG" />
 </p>
 
 ---
@@ -55,16 +55,16 @@ I am a **Systems-focused Backend Engineer and Machine Learning Researcher** purs
 <table align="center" border="0" cellpadding="10">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nexus2005&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=161616&amp;title_color=ffffff&amp;icon_color=c6ff38&amp;text_color=a9b1d6" alt="Nexus2005 GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nexus2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161616&title_color=ffffff&icon_color=c6ff38&text_color=a9b1d6" alt="Nexus2005 GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus2005&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=161616&amp;title_color=ffffff&amp;icon_color=c6ff38&amp;text_color=a9b1d6" alt="Nexus2005 Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=161616&title_color=ffffff&icon_color=c6ff38&text_color=a9b1d6" alt="Nexus2005 Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus2005&amp;theme=tokyonight&amp;hide_border=true&amp;background=161616&amp;ring=c6ff38&amp;fire=ff4b4b&amp;currStreakNum=ffffff" alt="Nexus2005 Contribution Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus2005&theme=tokyonight&hide_border=true&background=161616&ring=c6ff38&fire=ff4b4b&currStreakNum=ffffff" alt="Nexus2005 Contribution Streak" width="100%" />
 </p>
 
 ---
