@@ -70,7 +70,7 @@ I am a **Systems-focused Backend Engineer and Machine Learning Researcher** purs
 </details>
 
 <details>
-<summary>🛡️ <b>Software Engineering Trainee // EduSkills Co-ops</b> [2024 - 2025]</summary>
+<summary>🛡️ <b>Software Engineering Trainee // EduSkills Co-ops</b> [2024  -  2025]</summary>
 <br>
 
 * **Objective**: Compile and sandbox secure REST APIs and Zero Trust network boundaries.
