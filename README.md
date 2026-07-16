@@ -110,7 +110,7 @@ I am a **Systems-focused Backend Engineer and Machine Learning Researcher** purs
 
 ---
 
-## 🔬 SCIENTIFIC WRITING & AI R&D
+## 🔬 SCIENTIFIC WRITING & AI R&D.
 
 | Research Classification | Objective & Description | Telemetry |
 | :--- | :--- | :--- |
