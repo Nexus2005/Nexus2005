@@ -1,6 +1,6 @@
 <!-- Header Grid Banner -->
 <p align="center">
-  <img src="assets/grid-banner.svg" alt="OMKAR AHIRRAO // NEXUS2005 Grid Banner" width="100%" />
+  <img src="assets/grid-banner.svg" alt="OMKAR AHIRRAO // Omkar Ahirrao Grid Banner" width="100%" />
 </p>
 
 <!-- Dynamic Typing Telemetry Header -->
